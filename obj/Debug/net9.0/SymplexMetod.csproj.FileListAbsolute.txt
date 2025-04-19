@@ -1,0 +1,14 @@
+D:\Programming\C#\SymplexMetod\bin\Debug\net9.0\SymplexMetod.exe
+D:\Programming\C#\SymplexMetod\bin\Debug\net9.0\SymplexMetod.deps.json
+D:\Programming\C#\SymplexMetod\bin\Debug\net9.0\SymplexMetod.runtimeconfig.json
+D:\Programming\C#\SymplexMetod\bin\Debug\net9.0\SymplexMetod.dll
+D:\Programming\C#\SymplexMetod\bin\Debug\net9.0\SymplexMetod.pdb
+D:\Programming\C#\SymplexMetod\obj\Debug\net9.0\SymplexMetod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\SymplexMetod\obj\Debug\net9.0\SymplexMetod.AssemblyInfoInputs.cache
+D:\Programming\C#\SymplexMetod\obj\Debug\net9.0\SymplexMetod.AssemblyInfo.cs
+D:\Programming\C#\SymplexMetod\obj\Debug\net9.0\SymplexMetod.csproj.CoreCompileInputs.cache
+D:\Programming\C#\SymplexMetod\obj\Debug\net9.0\SymplexMetod.dll
+D:\Programming\C#\SymplexMetod\obj\Debug\net9.0\refint\SymplexMetod.dll
+D:\Programming\C#\SymplexMetod\obj\Debug\net9.0\SymplexMetod.pdb
+D:\Programming\C#\SymplexMetod\obj\Debug\net9.0\SymplexMetod.genruntimeconfig.cache
+D:\Programming\C#\SymplexMetod\obj\Debug\net9.0\ref\SymplexMetod.dll

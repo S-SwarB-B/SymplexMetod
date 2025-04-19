@@ -24,8 +24,8 @@ namespace SymplexMetod
                         string[]? strMassListLevel2 = Console.ReadLine() //Массив строк с данными
                             .Split(" ");
 
-                        int j = 0 //Создание счетчика
-;
+                        int j = 0; //Создание счетчика
+
                         foreach (string s in strMassListLevel2) //Цикл по строке
                         {
                             if (j != strMassListLevel2.Length - 2) //Условие для добавления всех данных кроме знаков неравенства
